@@ -16,6 +16,19 @@ module.exports = () => {
             "--remote-debugging-port=9222",
             "--hide-scrollbars",
             "--blink-settings=imagesEnabled=false",
+            "--no-first-run",
+            "--no-experiments",
+            "--no-initial-navigation",
+            "-no-managed-user-acknowledgment-check",
+            "--no-pings",
+            "--no-recovery-component",
+            "--no-startup-window",
+            "--no-vr-runtime",
+            "--no-wifi",
+            "--v8-cache-options=code",
+            "--v8-cache-strategies-for-cache-storage=aggressive",
+            "--app-cache-force-enabled",
+            "--disk-cache-size=99999999999999",
         ]
     });
 
