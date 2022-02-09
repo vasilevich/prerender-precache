@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@drorgl/sitemapper": "^2.1.17",
-    "@yosefsolutions/prerender": "https://github.com/vasilevich/prerender.git#67e940e299fedbf4df91260330c68e66710f52d8",
+    "@yosefsolutions/prerender": "https://github.com/vasilevich/prerender.git#ca456eb586f830ed26e93421ac9e1a731572a275",
     "config": "^3.3.6",
     "cross-env": "^7.0.3",
     "js-queue": "^2.0.2",
