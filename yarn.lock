@@ -56,9 +56,9 @@
   dependencies:
     "@types/node" "*"
 
-"@yosefsolutions/prerender@https://github.com/vasilevich/prerender.git#30a10242fedd72233e7829e0c8899773467ab39c":
+"@yosefsolutions/prerender@https://github.com/vasilevich/prerender.git#67e940e299fedbf4df91260330c68e66710f52d8":
   version "5.17.0"
-  resolved "https://github.com/vasilevich/prerender.git#30a10242fedd72233e7829e0c8899773467ab39c"
+  resolved "https://github.com/vasilevich/prerender.git#67e940e299fedbf4df91260330c68e66710f52d8"
   dependencies:
     body-parser "^1.19.0"
     chrome-remote-interface "^0.30.0"
